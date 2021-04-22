@@ -1,3 +1,15 @@
+.suc-sto {
+background-color: rgba(211, 211, 211, 0.322);
+width: 1390px;
+height: 450px;
+border: 0px solid black;
+padding-left: 0px;
+padding-top:0px ;
+padding-bottom:0px ;
+padding-right: 32px;
+margin: 20px;
+}
+  
 .container {
 width: 100%;
 max-width: 100%;
@@ -28,7 +40,7 @@ margin: auto auto 20px;
 background-position: center center;
 filter: grayscale(100%);
 float: left;
-margin-top: 5%;
+margin-top: 4%;
 margin-left: 4%;
 border-radius: 50%;
 margin-right: 3%;
@@ -69,7 +81,7 @@ margin: auto auto 20px;
 background-position: center center;
 filter: grayscale(100%);
 float: left;
-margin-top: -16%;
+margin-top: -18%;
 margin-left: 43%;
 border-radius: 50%;
 margin-bottom:  0%; 
