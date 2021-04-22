@@ -1,0 +1,92 @@
+.container {
+width: 100%;
+max-width: 100%;
+min-height: 500px;
+box-sizing: border-box;
+text-align: center;
+box-shadow: rgba(0, 0, 0, 0.267) 0px 0px 53px;
+padding: 50px;
+margin-top: -35%;
+margin-bottom: 3%;
+margin-left: -7%;
+margin-right: 7%;
+font-size: 0%;
+}
+
+.demo {
+text-align: center;
+color: blue;
+}
+.pic {
+width: 250px;
+height: 250px;
+margin: 100px;
+float: left;
+margin: auto auto 20px;
+background-position: center center;
+filter: grayscale(100%);
+float: left;
+margin-top: 5%;
+margin-left: 4%;
+border-radius: 50%;
+margin-right: 3%;
+}
+
+.name
+{
+color:blue;
+margin-left: 25%;
+margin-right: 9%;
+font-size: 18px;
+margin-top: 6%;
+}
+.pos {
+margin-left: 25%;
+margin-right: 9%;
+}
+
+.bio {
+
+margin-top: 2%;
+margin-left: 25%;
+margin-right: 9%;
+}
+
+.demo {
+text-align: center;
+color: rgba(39, 39, 219, 0.911);
+margin-top: 3% ;
+}
+
+.pic2 {
+width: 250px;
+height: 250px;
+margin: 100px;
+float: left;
+margin: auto auto 20px;
+background-position: center center;
+filter: grayscale(100%);
+float: left;
+margin-top: -16%;
+margin-left: 43%;
+border-radius: 50%;
+margin-bottom:  0%; 
+}
+.name2
+{
+color:blue;
+margin-left: 0%;
+margin-left: 70%;
+font-size: 18px;
+margin-top: -19%;
+}
+.pos2 {
+margin-left: 70%;
+margin-right: 9%;
+}
+
+.bio2 {
+margin-top: 2%;
+margin-left: 70%;
+margin-right: 9%;
+}
