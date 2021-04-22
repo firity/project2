@@ -16,6 +16,8 @@ font-size: 0%;
 .demo {
 text-align: center;
 color: blue;
+font-size: 24px;
+font-style: uppercase;
 }
 .pic {
 width: 250px;
